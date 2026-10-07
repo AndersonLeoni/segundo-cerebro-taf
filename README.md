@@ -1,6 +1,6 @@
-# Segundo Cérebro: [Nome do Tema / Ex: Fisiologia e Treinamento para Triatlo]
+# Segundo Cérebro: [Períodização para TAF]
 
-Repositório criado para documentar o desafio de construção de um "Segundo Cérebro com IA" utilizando o **Gemini Notebook** (antigo NotebookLM), com foco em aprendizado ativo e curadoria rigorosa de fontes.
+Repositório criado para documentar o desafio de construção de um "Segundo Cérebro com IA" utilizando o **Gemini Notebook**, com foco em aprendizado ativo e curadoria rigorosa de fontes.
 
 ---
 
