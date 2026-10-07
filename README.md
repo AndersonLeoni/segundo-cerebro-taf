@@ -14,8 +14,8 @@ Repositório criado para documentar o desafio de construção de um "Segundo Cé
 
 Para garantir a qualidade do conhecimento do assistente, foram selecionadas fontes primárias e secundárias de alta credibilidade, evitando o viés de algoritmos de recomendação através de buscas manuais e direcionadas.
 
-*   **Fonte 1 (Vídeo):** [Título do Vídeo ou Palestra] — *Canal/Autor*
-    *   *Por que confio:* [Ex: Vídeo técnico de especialista renomado na área, detalhando conceitos práticos aplicados.]
+*   **Fonte 1 (Vídeo):** [Como dividir os treinos para o TAF] — *Césão BigC*
+    *   *Por que confio:* [Vídeo didático sobre periodização para o TAF, de um educador físico consolidado na área.]
 *   **Fonte 2 (Artigo/PDF):** [Título do Documento ou Artigo Científico] — *Fonte/Instituição*
     *   *Por que confio:* [Ex: Material revisado por pares / manual oficial que fundamenta a teoria de base.]
 
