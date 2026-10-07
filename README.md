@@ -16,6 +16,9 @@ Para garantir a qualidade do conhecimento do assistente, foram selecionadas font
 
 - **Fonte 1 (Vídeo):** [Como dividir os treinos para o TAF] — *Césão BigC*
     - **Por que confio:** Vídeo didático sobre periodização para o TAF, de um educador físico consolidado na área.
+- **Fonte 2 (Vídeo):** [
+Entenda AGORA, o Que é Macrociclo, Mesociclo e Microciclo de Treino] — *Treino em Foco*
+    - **Por que confio:** Canal referencia na aréa de atividade física.
 - **Fonte 2 (Artigo/PDF):** [Título do Documento ou Artigo Científico] — *Fonte/Instituição*
     - **Por que confio:** Material revisado por pares / manual oficial que fundamenta a teoria de base.
 
