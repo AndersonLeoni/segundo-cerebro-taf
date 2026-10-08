@@ -67,7 +67,7 @@ A partir da leitura cruzada das fontes, o Estúdio do Gemini Notebook gerou os s
 ## 🔗 6. Link do Notebook Compartilhado
 
 Acesse o ambiente interativo do especialista construído para este desafio:
-*   [Acessar o Gemini Notebook no Google Labs]([https://notebook.google.com/](https://notebook.google.com/notebook/c34fdf12-2a8a-4938-a396-f7febcf4c45a/preview)) 
+*  [Acessar o Gemini Notebook - TAF](https://notebook.google.com/notebook/c34fdf12-2a8a-4938-a396-f7febcf4c45a)
 
 ---
 
