@@ -42,12 +42,13 @@ A seguinte diretriz foi inserida no Gemini Notebook para configurar a persona e 
 
 Abaixo estão exemplos de consultas realizadas ao assistente e a validação de que as respostas foram geradas estritamente a partir das fontes fornecidas:
 
-*   **Pergunta 1:** *[Ex: Quais são os principais pilares metodológicos discutidos nas referências?]*
-    *   **Resposta do Notebook:** [Resumo da resposta gerada pela IA]
-    *   **Fonte Citada:** [Nome da fonte de onde a informação foi extraída com precisão]
-*   **Pergunta 2:** *[Ex: Como aplicar o conceito X na prática diária?]*
-    *   **Resposta do Notebook:** [Resumo da resposta gerada pela IA]
-    *   **Fonte Citada:** [Nome da fonte correspondente]
+*   **Pergunta 1:** *[Em quanto tempo conseguimos nos preparar para o TAF, qual a períodização recomendada. Pense no aluno da seguinte forma: Mulher, 40 anos, 68 kilos, atividades físicas regular (3 a 4x na semana). O teste que ela precisa realizar:
+corrida 3km em 15 minutos (ou menos), 80 flexões, 10 barras fixas, 80 abdominais, 15 paralelas, 10 torçoes de punho (pesinho)]*
+    *   **Resposta do Notebook:** [O tempo total de preparação depende da avaliação diagnóstica inicial (nível atual nas provas)45:Se a aluna já possui uma base intermediária/avançada (ex.: já realiza 2 a 3 barras fixas estritas, corre a um pace de 5:30 min/km e faz cerca de 35-40 flexões/abdominais)4:Tempo necessário: 12 a 16 semanas (3 a 4 meses)67.Nesse cenário, utiliza-se um Macrociclo Abreviado em Blocos Concentrados, focando na rápida transferência de força base para resistência específica e polimento do ritmo78.Se a aluna está partindo do zero nas puxadas/corridas de alta intensidade (ex.: 0 barras fixas, pace acima de 6:30 min/km e poucas flexões)910:Tempo necessário: 20 a 24 semanas (5 a 6 meses)1011.Puxar 68 kg na barra fixa e desenvolver o $VO_2máx$ para sustentar 12 km/h por 15 minutos contínuos exige adaptações neuromusculares, hipertróficas e osteoarticulares progressivas para evitar lesões por sobreuso, como a periostite tibial ou tendinopatias1112.]
+    *   **Fonte Citada:** [Como DIVIDIR OS TREINOS para o TAF | Planilha com DIVISÃO DE TREINO COMPLETA!, Como montar um treino para o TAF?]
+*   **Pergunta 2:** *[Como é feito a pregressão de carga nessa periodização e como realizar o entendimento no que prosseguir e no que manter para ajustar o treino?]*
+    *   **Resposta do Notebook:** [Em periodizações estruturadas por blocos e ondulatórias, a "carga" não se resume ao peso em quilos, mas sim à combinação de **volume** (quantidade de repetições/quilômetros), **intensidade** (velocidade/percentual de força) e **densidade** (tempo de descanso)]
+    *   **Fonte Citada:** [comparison of periodization models: a critical review with practical applications, ]
 
 *(Nota: Os prints comprobatórios do chat e das citações destacadas estão disponíveis na pasta `/assets` ou na raiz deste repositório).*
 
