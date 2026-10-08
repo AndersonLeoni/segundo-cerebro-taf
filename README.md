@@ -6,7 +6,7 @@ Repositório criado para documentar o desafio de construção de um "Segundo Cé
 
 ## 🎯 1. Objetivo e Frase Norteadora
 
-> "Quero montar no Gemini Notebook um segundo cérebro sobre **[inserir o seu tema escolhido, ex: periodização de treinos para atletas de endurance]**, com fontes confiáveis em vídeo e em texto para dominar conceitos práticos e metodologias avançadas."
+> "Quero montar no Gemini Notebook um segundo cérebro sobre **[Sobre periodização e preparo físico para TAF]**, com fontes confiáveis em vídeo e em texto para dominar conceitos práticos e metodologias avançadas."
 
 ---
 
