@@ -23,10 +23,10 @@ Entenda AGORA, o Que é Macrociclo, Mesociclo e Microciclo de Treino] — *Trein
 COMO TREINAR CORRIDA PARA TAF] — *Tiago Mecabo*
     - **Por que confio:** Tiago Mecabo é ex atleta de corrida brasileiro, especialista em períodização para corrida.
       
-- **Fonte 2 (Artigo/PDF):** [Título do Documento ou Artigo Científico] — *Fonte/Instituição*
-    - **Por que confio:** Material revisado por pares / manual oficial que fundamenta a teoria de base.
-- **Fonte 3 (Vídeo):** [Como dividir os treinos para o TAF] — *Césão BigC*
-    - **Por que confio:** Vídeo didático sobre periodização para o TAF, de um educador físico consolidado na área.
+- **Fonte 1 (Artigo/PDF):** [Effects of Short-Term Concurrent Training] — *PubMed*
+    - **Por que confio:** Material revisado e públicado em uma das maiores bases de estudos.
+- **Fonte 2 (Artigo/PDF):** [Effects of tapering on performance] — *PubMed*
+    - **Por que confio:** Material revisado e públicado em uma das maiores bases de estudos.
 
 ---
 
