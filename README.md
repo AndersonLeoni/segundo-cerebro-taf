@@ -58,7 +58,7 @@ corrida 3km em 15 minutos (ou menos), 80 flexões, 10 barras fixas, 80 abdominai
 
 A partir da leitura cruzada das fontes, o Estúdio do Gemini Notebook gerou os seguintes materiais de apoio (incluídos neste repositório):
 
-*   🗺️ **Mapa Mental:** Arquivo `mapa-mental.png` (resumo visual da estrutura do conhecimento).
+*   🗺️ **Mapa Mental:** [Visualizar Mapa Mental] `assets/NotebookLM Mind Map (2).png` (resumo visual da estrutura do conhecimento).
 *   📑 **Slides de Estudo:** Arquivo `slides-resumo.pdf` (apresentação sintética dos conceitos-chave).
 *   🎙️ **Áudio / Podcast:** Revisão em formato de áudio para consumo offline (*se aplicável*).
 
